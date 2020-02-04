@@ -4,7 +4,7 @@ Project website made for Brainster- Learning Community</br>
 ## Technologies
 Created with Bootstrap 4</br>
 ## Screenshots
-![](Images/Home.png)
+![](Images/Home.gif)
 
 
 ![](Images/About.png)
