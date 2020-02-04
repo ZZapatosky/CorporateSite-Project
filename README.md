@@ -7,13 +7,13 @@ Created with Bootstrap 4</br>
 ![](Images/Home.gif)
 
 
-![](Images/About.png)
+![](Images/AboutUs.gif)
 
 
-![](Images/Services.png)
+![](Images/Services.gif)
 
 
-![](Images/Blog.png)
+![](Images/Blog.gif)
 
 
-![](Images/Contact.png)
+![](Images/Contact.gif)
