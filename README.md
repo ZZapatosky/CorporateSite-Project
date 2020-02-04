@@ -1,26 +1,33 @@
 # CorporateSite-Project
-## Overview
-Project website made for Brainster- Learning Community</br>
-## Technologies
-Created with Bootstrap 4</br>
-## Screenshots
+  * *Project website made for Brainster- Learning Community*
 
-### Home
 
-![](Images/Home.gif)
+   ## Technologies
+   &nbsp; &nbsp; **Created with Bootstrap 4**
 
-### About Us
+# Site Preview
 
-![](Images/AboutUs.gif)
+## Home
 
-### Services
+![](Images/Home.gif)  
+
+
+
+## About Us
+
+![](Images/AboutUs.gif)  
+
+## Services
 
 ![](Images/Services.gif)
 
-### Blog
+## Blog
 
 ![](Images/Blog.gif)
 
-### Contact
+## Contact
 
 ![](Images/Contact.gif)
+
+# Author
+     Zlatko Zapatoski
