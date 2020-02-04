@@ -7,27 +7,7 @@
 
 # Site Preview
 
-## Home
-
-![](Images/Home.gif)  
-
-
-
-## About Us
-
-![](Images/AboutUs.gif)  
-
-## Services
-
-![](Images/Services.gif)
-
-## Blog
-
-![](Images/Blog.gif)
-
-## Contact
-
-![](Images/Contact.gif)
+![](Images/CorpSite.gif)
 
 # Author
      Zlatko Zapatoski
